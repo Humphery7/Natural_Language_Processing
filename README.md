@@ -8,6 +8,6 @@ This Repository contains projects done on the **Deep learning specialization(NLP
 -> Generating Music Using an LSTM model, <br />
 
 ### WEEK 2
--> Using Word Embeddings, loading/modifying pre-trained word embeddings, measuring similarity between texts, Debiasing
--> Using word vector representations to build two Emojifiers: the first will be a baseline model using pre-trainedword embeddings, 
+-> Using Word Embeddings, loading/modifying pre-trained word embeddings, measuring similarity between texts, Debiasing <br />
+-> Using word vector representations to build two Emojifiers: the first will be a baseline model using pre-trainedword embeddings, <br />
    and the second will be a more sophisticated version using an LSTM! 🤩 💫 🔥
